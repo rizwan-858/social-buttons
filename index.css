@@ -1,0 +1,39 @@
+/* Write your code here. */
+.button1 {
+  background-color: #eab308;
+  margin: 5px;
+  border-radius: 5px;
+  border-width: 0px;
+  width: 60px;
+}
+
+.button2 {
+  background-color: #ffffff;
+  margin: 5px;
+  border-radius: 5px;
+  border-width: 0px;
+  width: 60px;
+}
+
+.button3 {
+  background-color: #1d4ed8;
+  margin: 5px;
+  border-radius: 5px;
+  border-width: 0px;
+  width: 60px;
+}
+
+.heading {
+  font-family: Bree Serif;
+  color: #ffffff;
+}
+
+.bg {
+  background-image: url("https://assets.ccbp.in/frontend/react-js/social-buttons-bg.png");
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
